@@ -1,4 +1,4 @@
-# WarGame
+# War Game Description
 
   This repository shows my favorite card game called War that I replicated in C++. 
   
@@ -8,11 +8,12 @@
 
 ![Demo 1](https://github.com/msjulietruong/WarGame/blob/main/demo1.png?raw=true)
 
-  Here is another demo conveying what happens when the number of games requested is higher than the amount of cards. Player 1 (Mario) goes against Player 2 (Bowser) 2000 times.
+  Here is another demo conveying what happens when the number of games requested is higher. Player 1 (Mario) goes against Player 2 (Bowser) 2000 times.
 
 
   ![Demo 2.1](https://github.com/msjulietruong/WarGame/blob/main/demo2.1.png?raw=true)
 
+Uh oh! The error displays to the user, as seen below.
 
   ![Demo 2.2](https://github.com/msjulietruong/WarGame/blob/main/demo2.2.png?raw=true)
 
