@@ -10,8 +10,11 @@
 
   Here is another demo conveying what happens when the number of games requested is higher than the amount of cards. Player 1 (Mario) goes against Player 2 (Bowser) 2000 times.
 
+
   ![Demo 2.1](https://github.com/msjulietruong/WarGame/blob/main/demo2.1.png?raw=true)
 
+
   ![Demo 2.2](https://github.com/msjulietruong/WarGame/blob/main/demo2.2.png?raw=true)
+
 
   Thanks for checking out my game and I hope you enjoy it!
